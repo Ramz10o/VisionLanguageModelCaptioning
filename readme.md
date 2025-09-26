@@ -54,6 +54,7 @@ Metrics comparing zero-shot captions against manual annotations:
 - Zero-shot BLIP captions are reasonable; partial fine-tuning could improve specificity  
 - Pipeline supports frame sampling and journey summarization  
 
+[Files](https://drive.google.com/drive/folders/1ScrXcHc6YNzVjHtFms0SYSbifVNQG4Uq?usp=drive_link)
 ---
 
 ## Deliverables
